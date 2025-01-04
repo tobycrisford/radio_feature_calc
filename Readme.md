@@ -1,6 +1,6 @@
 # Finding the minimal set of serial numbers with a given set of features
 
-My cousin recently came to me with a data problem. He had a load of radio serial numbers, all with a different set of features. Given a set of required features, he wanted to be able to quickly find the smallest possible set of radio serial numbers that would, between them, have all of those required features.
+My cousin recently gave me a data problem. He had a load of radio serial numbers, all with a different set of features. Given a set of required features, he wanted to be able to quickly find the smallest possible set of radio serial numbers that would, between them, have all of those required features.
 
 The data was stored in a huge table in Google Sheets, with rows representing features, columns representing serial numbers, and 1s or 0s used to represent whether a given serial number had a given feature.
 
